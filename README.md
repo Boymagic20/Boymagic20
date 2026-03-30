@@ -12,8 +12,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about modding
 - 📫 How to reach me: Issues
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Just some random guy posting mods, nothing that serious
-
 
 https://github.com/iiDk-the-actual/iiDk-the-actual/blob/03fc4a9c381ed6cff2e69d067f012e5ebc827dee/milk.gif
 
